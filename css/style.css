@@ -5,3 +5,5 @@
 
 @import "./home/introducao.css";
 @import "./utilidades/components.css";
+
+@import "./bicicletas/bicicletas-lista.css";
